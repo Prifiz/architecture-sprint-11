@@ -1,0 +1,58 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.4">
+  <diagram id="6faDem5PxRRIMGQd80wj" name="Roadmap">
+    <mxGraphModel dx="5050" dy="3374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QlwB00z0-otb056kdUWZ-8" value="Q2" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="-2070" y="-1480" width="440" height="74.4" as="geometry" />
+        </mxCell>
+        <mxCell id="RbXZEQW7RwwzM1TlkRGj-2" value="" style="shape=rect;fillColor=#fff2cc;strokeColor=none;fontSize=24;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-2500" y="-1366" width="1770" height="536" as="geometry" />
+        </mxCell>
+        <mxCell id="RbXZEQW7RwwzM1TlkRGj-4" value="Организация доменов данных" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-2260" y="-1280" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fP5PYghc3A0w4Yy5Se03-1" value="Q1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-2520" y="-1480" width="440" height="74.4" as="geometry" />
+        </mxCell>
+        <mxCell id="fP5PYghc3A0w4Yy5Se03-2" value="Q3" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-1620" y="-1480" width="440" height="74.4" as="geometry" />
+        </mxCell>
+        <mxCell id="fP5PYghc3A0w4Yy5Se03-3" value="Q4" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontStyle=1;align=center;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-1170" y="-1480" width="440" height="74.4" as="geometry" />
+        </mxCell>
+        <mxCell id="fP5PYghc3A0w4Yy5Se03-5" value="Реализация каталога данных" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1755" y="-1080" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fP5PYghc3A0w4Yy5Se03-11" value="Обновление инструментария" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2480" y="-1040" width="410" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fP5PYghc3A0w4Yy5Se03-12" value="Организация тегирования данных" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2480" y="-1350" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fP5PYghc3A0w4Yy5Se03-13" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Реализация каталога данных&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Интеграция каталога с сервисом аналитики&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;ETL для ИИ данных&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;ETL для фин. данных&lt;br&gt;Интеграция ИИ сервиса с каталогом&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2380" y="-1830" width="430" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fP5PYghc3A0w4Yy5Se03-14" value="Настройка интеграций с имеющимися сервисами" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1520" y="-1077.6" width="220" height="67.6" as="geometry" />
+        </mxCell>
+        <mxCell id="fP5PYghc3A0w4Yy5Se03-16" value="Подготовка инфраструктуры" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1820" y="-1169" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fP5PYghc3A0w4Yy5Se03-17" value="Продуктовый запуск" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1060" y="-981.2" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fP5PYghc3A0w4Yy5Se03-18" value="Проработка MVP" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2060" y="-1169" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fP5PYghc3A0w4Yy5Se03-19" value="Пилотное внедрение" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="-990" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fP5PYghc3A0w4Yy5Se03-20" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;1. Тегируем данные для понимания принадлежности&lt;br&gt;2. Параллельно занимаемся обновлением инструментария,&lt;br&gt;снижаем техдолг&lt;br&gt;3. На основе тегирования выделяем домены,&lt;br&gt;обучаем команды подходу DataMesh,&lt;br&gt;организуем и документируем взаимодействия и зоны ответственности доменов&lt;br&gt;4. Прорабатываем технические аспекты MVP&lt;br&gt;5. Готовим инфраструктуру для будущей витрины,&lt;br&gt;оцениваем capacity, выполняем настройки&lt;br&gt;6. По мере готовности инфры реализуем работу с каталогом,&lt;br&gt;настраиваем процессы работы с метаданными&lt;br&gt;7. Реализуем интеграции с имеющимися сервисами -&amp;nbsp;&lt;br&gt;как источниками, так и потребителями данных.&lt;br&gt;Здесь реализуется разграничение доступности данных для отчетов&lt;br&gt;и внутренних (например медицинских)&lt;br&gt;8. Пилотное внедрение (как вариант канареечное, на паре обученных пилотных отделов),&lt;br&gt;пробная эксплуатация, исправление возможных ошибок, сбор обратной связи&lt;br&gt;9. Продуктовый запуск для активного широкого использования.&lt;br&gt;Здесь же составления роадмапа по дальнейшему развитию&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2540" y="-790" width="860" height="470" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
